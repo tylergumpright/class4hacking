@@ -15,7 +15,19 @@
       font-size: 30px;
       position: relative;
       top: -78px;
-      width: auto;
+      width: 30px;
       display: inline;
       margin-left: 20px;
+    }
+
+#infoWindow2 {
+      background: #FFFFFF;
+      padding: 15px;
+      border-radius: 10px;
+      font-size: 30px;
+      position: relative;
+      top: -78px;
+      width: 30px;
+      display: inline;
+      margin-left: 600px;
     }
